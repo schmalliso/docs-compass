@@ -24,6 +24,10 @@ exploring your data in a visual environment, you can also use
 :ref:`manage indexes <compass-indexes>`, and implement
 :ref:`document validation <validation>`.
 
+:facebook:`link </stuff>`
+
+:dbtools:`/mongorestore`
+
 Prerequisites
 -------------
 
